@@ -1,7 +1,7 @@
 Custom Adapter Sample App
 ============
 
-This app demonstrates how to use a ListView and a custom ArrayAdapter.
+This app demonstrates how to create and use a ListView and custom ArrayAdapter (called FlavorAdapter) to display a custom list item view that contains an ImageView and two TextViews.
 
 ![App Screenshot](http://lh3.googleusercontent.com/ZKdSHN5puyfe3SySFz9_ufbtFUihW90DEr5OXx8_sNsGSzblqIZkEZjrps0MMH_Z77ik_BEkKAzDk7968uM=s0#w=360&h=640)
 
