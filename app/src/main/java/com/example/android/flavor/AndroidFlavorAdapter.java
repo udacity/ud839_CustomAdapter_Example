@@ -67,7 +67,7 @@ public class AndroidFlavorAdapter extends ArrayAdapter<AndroidFlavor> {
                     R.layout.list_item, parent, false);
         }
 
-        // Get the {@link AndroidFlavor} object located at this position in the list
+        // Get the AndroidFlavor object located at this position in the list
         AndroidFlavor currentAndroidFlavor = getItem(position);
 
         // Find the TextView in the list_item.xml layout with the ID version_name
