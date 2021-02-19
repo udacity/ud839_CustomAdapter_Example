@@ -45,6 +45,11 @@ public class MainActivity extends AppCompatActivity {
         androidFlavors.add(new AndroidFlavor("KitKat", "4.4-4.4.4", R.drawable.kitkat));
         androidFlavors.add(new AndroidFlavor("Lollipop", "5.0-5.1.1", R.drawable.lollipop));
         androidFlavors.add(new AndroidFlavor("Marshmallow", "6.0-6.0.1", R.drawable.marshmallow));
+        androidFlavors.add(new AndroidFlavor("Nougat", "7.0-7.12", R.drawable.nougat));
+        androidFlavors.add(new AndroidFlavor("Oreo", "8.0-8.1", R.drawable.oreo));
+        androidFlavors.add(new AndroidFlavor("Pie", "9.0", R.drawable.pie));
+        androidFlavors.add(new AndroidFlavor("Android Q", "10.0", R.drawable.q));
+        androidFlavors.add(new AndroidFlavor("Android 11", "11", R.drawable.eleven));
 
         // Create an {@link AndroidFlavorAdapter}, whose data source is a list of
         // {@link AndroidFlavor}s. The adapter knows how to create list item views for each item
